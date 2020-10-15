@@ -1,0 +1,363 @@
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.exe
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.deps.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.dev.json
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.pdb
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csprojAssemblyReference.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfoInputs.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfo.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CoreCompileInputs.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.MvcApplicationPartsAssemblyInfo.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.input.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.output.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorCoreGenerate.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterWebhook.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\WebhooksList.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cs
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CopyComplete
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.Manifest.cache
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.xml
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.dll
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.pdb
+E:\c#\eShopOnContainers-dev\src\Web\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.genruntimeconfig.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.exe
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.deps.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.dev.json
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.pdb
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csprojAssemblyReference.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfoInputs.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfo.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CoreCompileInputs.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.input.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.output.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorCoreGenerate.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterWebhook.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\WebhooksList.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cs
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CopyComplete
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.Manifest.cache
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.xml
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.dll
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.pdb
+C:\Users\Blue Sky\source\repos\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.genruntimeconfig.cache
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\appsettings.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.exe
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.deps.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.runtimeconfig.dev.json
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.pdb
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csprojAssemblyReference.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfoInputs.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.AssemblyInfo.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CoreCompileInputs.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.MvcApplicationPartsAssemblyInfo.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorAssemblyInfo.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.input.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.TagHelpers.output.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorCoreGenerate.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterWebhook.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\WebhooksList.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.RazorTargetAssemblyInfo.cs
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.Views.pdb
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.csproj.CopyComplete
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.Manifest.cache
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\staticwebassets\WebhookClient.StaticWebAssets.xml
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.dll
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.pdb
+E:\c#\WebhookClient\WebhookClient\obj\Debug\netcoreapp3.1\WebhookClient.genruntimeconfig.cache
